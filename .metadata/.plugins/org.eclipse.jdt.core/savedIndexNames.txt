@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+C:\Users\adria\Desktop\Generation Tarefas\Generation_Exercicios\.metadata\.plugins\org.eclipse.jdt.core
+1823427740.index
+234032375.index
